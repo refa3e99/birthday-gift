@@ -1,0 +1,6 @@
+{
+  "name": "A Birthday Surprise 🎁",
+  "description": "An interactive digital gift and puzzle experience full of love.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
